@@ -13,7 +13,7 @@ public class OneOfEachStats {
 		int T = Integer.parseInt(args[0]);
 		int seed = Integer.parseInt(args[1]);
 		Random generator = new Random(seed);
-		int finalSum = 0;
+		double finalSum = 0;
 		int c2 = 0;
 		int c3 = 0;
 		int c4 = 0;
